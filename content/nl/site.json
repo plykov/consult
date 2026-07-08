@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "titleSuffix": "Bridgehead — Europese B2B GTM-strategie",
+    "description": "GTM-strategieconsultancy voor techbedrijven die Europa betreden en Nederlandse bedrijven die EU-breed of wereldwijd willen groeien."
+  },
+  "brand": {
+    "name": "Bridgehead",
+    "tagline": "Europese go-to-market-strategie voor techbedrijven"
+  },
+  "nav": {
+    "home": "Home",
+    "cases": "Cases",
+    "newsletter": "Nieuwsbrief",
+    "contact": "Contact"
+  },
+  "hero": {
+    "kicker": "B2B GTM-strategieconsultancy",
+    "title": "Uw thuismarkt-playbook bracht u hier. Europa speelt volgens andere regels.",
+    "lead": "Wij helpen techbedrijven winnen in Europese markten — waar beslissingsteams, inkoopnormen, partnerinvloed en vertrouwensdynamiek zich anders gedragen dan uw thuismarkt u heeft geleerd.",
+    "ctaPrimary": "Plan een kennismaking",
+    "ctaSecondary": "Lees onze cases"
+  },
+  "audiences": {
+    "title": "Met wie wij werken",
+    "items": [
+      {
+        "title": "Techbedrijven die Europa betreden",
+        "body": "Product-led en sales-led scale-ups uit de VS, Israël, APAC en daarbuiten, waarvan de bewezen GTM-aanpak vastloopt bij het eerste contact met de Europese inkooprealiteit: beslissingsteams met veel stakeholders, formele inkoopprocessen, kanaal-gatekeepers en langzamere vertrouwensopbouw."
+      },
+      {
+        "title": "Nederlandse bedrijven die EU-breed of wereldwijd gaan",
+        "body": "Nederlandse technologie- en industriebedrijven die hun thuismarkt domineren en nu een doordachte expansiestrategie nodig hebben — want wat via uw Nederlandse netwerk werkt, vertaalt zich niet vanzelf naar de DACH-regio, Frankrijk, de Nordics of verder."
+      }
+    ]
+  },
+  "problem": {
+    "title": "Waar thuismarkt-playbooks stuklopen",
+    "lead": "Het product is zelden het probleem. De kloof zit tussen hoe u hebt leren verkopen en hoe Europa inkoopt.",
+    "items": [
+      {
+        "title": "Lokale beslissingsteams",
+        "body": "De single-champion-aanpak stort in wanneer zes tot tien stakeholders — techniek, inkoop, juridisch, ondernemingsraad — elk een veto hebben en verwachten op hun eigen voorwaarden betrokken te worden."
+      },
+      {
+        "title": "Inkoopnormen",
+        "body": "Raamovereenkomsten, aanbestedingsregels, data-residency-clausules en betalingstermijnen verschillen per land. Inkoop behandelen als een formaliteit aan het einde is de duurste fout die wij zien."
+      },
+      {
+        "title": "Partnerinvloed",
+        "body": "In veel Europese markten bepalen integrators, resellers en vertrouwde adviseurs welke leveranciers überhaupt worden overwogen. Wie niet in hun ecosysteem zit, zit niet in de deal."
+      },
+      {
+        "title": "Vertrouwensdynamiek",
+        "body": "Referenties, lokale aanwezigheid, taal en signalen van langetermijncommitment wegen zwaarder dan snelheid. Europese kopers belonen leveranciers die bewijzen dat ze blijven."
+      }
+    ]
+  },
+  "services": {
+    "title": "Wat wij doen",
+    "lead": "Gerichte opdrachten met een helder resultaat en overdracht van kennis naar uw team — geen slidedeck dat in een la sterft.",
+    "items": [
+      {
+        "title": "Markttoetredings-diagnose",
+        "body": "Vier weken. Wij brengen de beslissingsteams, het inkooplandschap en de partnerecosystemen van uw doelmarkten in kaart tegenover uw huidige aanpak — en vertellen u precies waar die zal breken en wat er moet veranderen."
+      },
+      {
+        "title": "GTM-lokalisatiesprint",
+        "body": "Wij herbouwen de delen van uw playbook die niet meereizen: ICP en segmentatie per markt, boodschap- en bewijsarchitectuur, en een salesproces dat de lokale koopfasen volgt."
+      },
+      {
+        "title": "Partner- & kanaalontwerp",
+        "body": "Wij identificeren de partners die in uw categorie werkelijk deals vormgeven, ontwerpen het commerciële model en bouwen de enablement waarmee het kanaal levert — in plaats van alleen tekent."
+      },
+      {
+        "title": "Fractional GTM-leiderschap",
+        "body": "Een ervaren Europese GTM-operator, ingebed in uw team, leidt de expansie — van profielen voor de eerste hires tot pipeline-reviews — totdat die op eigen benen staat."
+      }
+    ]
+  },
+  "cases": {
+    "title": "Cases",
+    "lead": "Hoe techbedrijven Europese markten aan het werk kregen — geanonimiseerd, met de cijfers die ertoe deden.",
+    "readMore": "Lees de case",
+    "all": "Alle cases",
+    "back": "Terug naar cases",
+    "clientLabel": "Klant",
+    "sectorLabel": "Sector",
+    "resultsLabel": "Resultaten"
+  },
+  "newsletter": {
+    "title": "Nieuwsbrief",
+    "name": "The Decision Unit",
+    "lead": "Een briefing over Europese B2B go-to-market: beslissingsteams, inkoop, partners en vertrouwen — één praktisch idee per editie, zonder opvulling.",
+    "emailPlaceholder": "u@bedrijf.nl",
+    "submit": "Abonneren",
+    "privacyNote": "Eén e-mail per editie. Altijd opzegbaar. Wij delen uw adres nooit.",
+    "archiveTitle": "Eerdere edities",
+    "readIssue": "Lees editie",
+    "backToArchive": "Terug naar alle edities"
+  },
+  "contact": {
+    "title": "Praat met ons",
+    "lead": "Vertel ons welke markten u op het oog hebt en waar de huidige aanpak vastloopt. Binnen twee werkdagen krijgt u een eerlijke inschatting of wij kunnen helpen.",
+    "emailLabel": "E-mail"
+  },
+  "footer": {
+    "note": "Europese GTM-strategie voor techbedrijven die Europa betreden en Nederlandse bedrijven die de wereld op gaan.",
+    "rights": "Alle rechten voorbehouden."
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "titleSuffix": "Bridgehead — Stratégie GTM B2B européenne",
+    "description": "Cabinet de conseil en stratégie go-to-market pour les entreprises technologiques qui entrent en Europe et les entreprises néerlandaises visant une expansion européenne ou mondiale."
+  },
+  "brand": {
+    "name": "Bridgehead",
+    "tagline": "Stratégie go-to-market européenne pour entreprises technologiques"
+  },
+  "nav": {
+    "home": "Accueil",
+    "cases": "Références",
+    "newsletter": "Newsletter",
+    "contact": "Contact"
+  },
+  "hero": {
+    "kicker": "Conseil en stratégie GTM B2B",
+    "title": "Votre playbook du marché domestique vous a menés ici. L'Europe joue selon d'autres règles.",
+    "lead": "Nous aidons les entreprises technologiques à gagner sur les marchés européens — là où les unités de décision, les normes d'achat, l'influence des partenaires et les dynamiques de confiance ne se comportent pas comme votre marché d'origine vous l'a appris.",
+    "ctaPrimary": "Réserver un premier échange",
+    "ctaSecondary": "Lire nos références"
+  },
+  "audiences": {
+    "title": "Avec qui nous travaillons",
+    "items": [
+      {
+        "title": "Entreprises technologiques entrant en Europe",
+        "body": "Des scale-ups product-led et sales-led venues des États-Unis, d'Israël, d'Asie-Pacifique et d'ailleurs, dont la mécanique GTM éprouvée cale au premier contact avec la réalité des achats européens : unités de décision multi-parties prenantes, achats formalisés, prescripteurs de canal et construction de la confiance plus lente."
+      },
+      {
+        "title": "Entreprises néerlandaises visant l'Europe ou le monde",
+        "body": "Des entreprises technologiques et industrielles néerlandaises qui dominent leur marché domestique et ont désormais besoin d'une stratégie d'expansion délibérée — car ce qui fonctionne via votre réseau néerlandais ne se transpose pas automatiquement à la région DACH, à la France, aux pays nordiques ou au-delà."
+      }
+    ]
+  },
+  "problem": {
+    "title": "Là où les playbooks domestiques se brisent",
+    "lead": "Le produit est rarement le problème. L'écart se situe entre la façon dont vous avez appris à vendre et la façon dont l'Europe achète.",
+    "items": [
+      {
+        "title": "Unités de décision locales",
+        "body": "La mécanique du champion unique s'effondre lorsque six à dix parties prenantes — technique, commercial, juridique, comité social — détiennent chacune un veto et attendent d'être engagées selon leurs propres termes."
+      },
+      {
+        "title": "Normes d'achat",
+        "body": "Accords-cadres, règles d'appels d'offres, clauses de résidence des données et délais de paiement diffèrent selon les pays. Traiter les achats comme une formalité de fin de cycle est l'erreur la plus coûteuse que nous observons."
+      },
+      {
+        "title": "Influence des partenaires",
+        "body": "Sur de nombreux marchés européens, les intégrateurs, revendeurs et conseillers de confiance décident quels fournisseurs sont même considérés. Si vous n'êtes pas dans leur écosystème, vous n'êtes pas dans le deal."
+      },
+      {
+        "title": "Dynamiques de confiance",
+        "body": "Références, présence locale, langue et signaux d'engagement durable pèsent plus lourd que les jeux de vélocité. Les acheteurs européens récompensent les fournisseurs qui prouvent qu'ils sont là pour rester."
+      }
+    ]
+  },
+  "services": {
+    "title": "Ce que nous faisons",
+    "lead": "Des missions ciblées avec un livrable clair et un transfert de compétences vers votre équipe — pas une présentation qui meurt dans un tiroir.",
+    "items": [
+      {
+        "title": "Diagnostic d'entrée de marché",
+        "body": "Quatre semaines. Nous cartographions les unités de décision, le paysage des achats et les écosystèmes de partenaires de vos marchés cibles face à votre mécanique actuelle — et vous disons précisément où elle cassera et quoi changer."
+      },
+      {
+        "title": "Sprint de localisation GTM",
+        "body": "Nous reconstruisons les parties de votre playbook qui ne se transposent pas : ICP et segmentation par marché, architecture de messages et de preuves, et un processus de vente réordonné selon les étapes d'achat locales."
+      },
+      {
+        "title": "Conception partenaires & canal",
+        "body": "Nous identifions les partenaires qui façonnent réellement les deals dans votre catégorie, concevons le modèle commercial et construisons l'enablement qui fait produire le canal — pas seulement signer."
+      },
+      {
+        "title": "Direction GTM à temps partagé",
+        "body": "Un opérateur GTM européen expérimenté, intégré à votre équipe, pilote l'expansion — des profils des premiers recrutements aux revues de pipeline — jusqu'à ce qu'elle tienne debout seule."
+      }
+    ]
+  },
+  "cases": {
+    "title": "Références",
+    "lead": "Comment des entreprises technologiques ont fait fonctionner les marchés européens — anonymisées, avec les chiffres qui comptaient.",
+    "readMore": "Lire la référence",
+    "all": "Toutes les références",
+    "back": "Retour aux références",
+    "clientLabel": "Client",
+    "sectorLabel": "Secteur",
+    "resultsLabel": "Résultats"
+  },
+  "newsletter": {
+    "title": "Newsletter",
+    "name": "The Decision Unit",
+    "lead": "Un briefing sur le go-to-market B2B européen : unités de décision, achats, partenaires et confiance — une idée pratique par numéro, sans remplissage.",
+    "emailPlaceholder": "vous@entreprise.fr",
+    "submit": "S'abonner",
+    "privacyNote": "Un e-mail par numéro. Désabonnement à tout moment. Nous ne partageons jamais votre adresse.",
+    "archiveTitle": "Numéros précédents",
+    "readIssue": "Lire le numéro",
+    "backToArchive": "Retour à tous les numéros"
+  },
+  "contact": {
+    "title": "Parlons-en",
+    "lead": "Dites-nous quels marchés vous visez et où votre mécanique actuelle cale. Nous revenons vers vous sous deux jours ouvrés avec un avis honnête sur notre capacité à vous aider.",
+    "emailLabel": "E-mail"
+  },
+  "footer": {
+    "note": "Stratégie GTM européenne pour les entreprises technologiques entrant en Europe et les entreprises néerlandaises partant à la conquête du monde.",
+    "rights": "Tous droits réservés."
+  }
+}

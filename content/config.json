@@ -1,0 +1,14 @@
+{
+  "siteUrl": "https://plykov.github.io/WatchPrayer",
+  "contactEmail": "hello@bridgehead-gtm.eu",
+  "newsletterFormAction": "https://buttondown.com/api/emails/embed-subscribe/bridgehead-gtm",
+  "languages": ["en", "de", "nl", "fr", "es"],
+  "defaultLanguage": "en",
+  "languageNames": {
+    "en": "English",
+    "de": "Deutsch",
+    "nl": "Nederlands",
+    "fr": "Français",
+    "es": "Español"
+  }
+}

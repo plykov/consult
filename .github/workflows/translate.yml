@@ -1,0 +1,54 @@
+name: Sync translations
+
+# English is the source of truth: whenever content/en/** changes on main,
+# regenerate the DE/NL/FR/ES versions with the Claude API and commit them.
+# The commit only touches content/{de,nl,fr,es} and the state file, so it
+# does not re-trigger this workflow.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "content/en/**"
+      - "content/config.json"
+  workflow_dispatch:
+    inputs:
+      force_all:
+        description: "Retranslate everything, not just changed files"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: translate
+  cancel-in-progress: false
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Translate changed English content
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/translate.mjs ${{ inputs.force_all && '--all' || '' }}
+
+      - name: Commit translated content
+        run: |
+          git config user.name "translation-bot"
+          git config user.email "actions@github.com"
+          git add content/de content/nl content/fr content/es content/.translation-state.json
+          if git diff --cached --quiet; then
+            echo "No translation changes to commit."
+          else
+            git commit -m "chore(i18n): sync DE/NL/FR/ES translations with content/en"
+            git push origin main
+          fi

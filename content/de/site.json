@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "titleSuffix": "Bridgehead — Europäische B2B-GTM-Strategie",
+    "description": "GTM-Strategieberatung für Technologieunternehmen beim Markteintritt in Europa und niederländische Unternehmen auf dem Weg zu EU-weitem oder globalem Wachstum."
+  },
+  "brand": {
+    "name": "Bridgehead",
+    "tagline": "Europäische Go-to-Market-Strategie für Technologieunternehmen"
+  },
+  "nav": {
+    "home": "Start",
+    "cases": "Referenzen",
+    "newsletter": "Newsletter",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "kicker": "B2B-GTM-Strategieberatung",
+    "title": "Ihr Heimatmarkt-Playbook hat Sie hierher gebracht. Europa spielt nach anderen Regeln.",
+    "lead": "Wir helfen Technologieunternehmen, in europäischen Märkten zu gewinnen — dort, wo Buying Center, Beschaffungsnormen, Partnereinfluss und Vertrauensdynamiken sich anders verhalten, als Ihr Heimatmarkt es Sie gelehrt hat.",
+    "ctaPrimary": "Erstgespräch vereinbaren",
+    "ctaSecondary": "Referenzen lesen"
+  },
+  "audiences": {
+    "title": "Mit wem wir arbeiten",
+    "items": [
+      {
+        "title": "Technologieunternehmen beim Markteintritt in Europa",
+        "body": "Product-led und Sales-led Scale-ups aus den USA, Israel, APAC und darüber hinaus, deren bewährte GTM-Motion beim ersten Kontakt mit der europäischen Einkaufsrealität ins Stocken gerät: Buying Center mit vielen Stakeholdern, formalisierte Beschaffung, Channel-Gatekeeper und langsamerer Vertrauensaufbau."
+      },
+      {
+        "title": "Niederländische Unternehmen auf dem Weg in die EU oder in die Welt",
+        "body": "Niederländische Technologie- und Industrieunternehmen, die ihren Heimatmarkt dominieren und nun eine durchdachte Expansionsstrategie brauchen — denn was über Ihr niederländisches Netzwerk funktioniert, lässt sich nicht automatisch auf DACH, Frankreich, die Nordics oder darüber hinaus übertragen."
+      }
+    ]
+  },
+  "problem": {
+    "title": "Woran Heimatmarkt-Playbooks scheitern",
+    "lead": "Das Produkt ist selten das Problem. Die Lücke liegt zwischen dem, wie Sie verkaufen gelernt haben, und dem, wie Europa einkauft.",
+    "items": [
+      {
+        "title": "Lokale Buying Center",
+        "body": "Die Single-Champion-Motion bricht zusammen, wenn sechs bis zehn Stakeholder — Technik, Einkauf, Recht, Betriebsrat — jeweils ein Veto haben und erwarten, zu ihren eigenen Bedingungen eingebunden zu werden."
+      },
+      {
+        "title": "Beschaffungsnormen",
+        "body": "Rahmenverträge, Ausschreibungsregeln, Data-Residency-Klauseln und Zahlungsziele unterscheiden sich von Land zu Land. Die Beschaffung als späte Formalität zu behandeln, ist der teuerste Fehler, den wir sehen."
+      },
+      {
+        "title": "Partnereinfluss",
+        "body": "In vielen europäischen Märkten entscheiden Integratoren, Reseller und vertraute Berater, welche Anbieter überhaupt in Betracht gezogen werden. Wer nicht in ihrem Ökosystem ist, ist nicht im Deal."
+      },
+      {
+        "title": "Vertrauensdynamiken",
+        "body": "Referenzen, lokale Präsenz, Sprache und Signale langfristigen Engagements wiegen schwerer als Velocity-Plays. Europäische Einkäufer belohnen Anbieter, die beweisen, dass sie bleiben."
+      }
+    ]
+  },
+  "services": {
+    "title": "Was wir tun",
+    "lead": "Fokussierte Mandate mit klarem Ergebnis und Kompetenztransfer in Ihr Team — kein Foliensatz, der in der Schublade stirbt.",
+    "items": [
+      {
+        "title": "Markteintritts-Diagnose",
+        "body": "Vier Wochen. Wir kartieren Buying Center, Beschaffungslandschaft und Partner-Ökosysteme Ihrer Zielmärkte gegen Ihre aktuelle Motion — und sagen Ihnen präzise, wo sie brechen wird und was zu ändern ist."
+      },
+      {
+        "title": "GTM-Lokalisierungs-Sprint",
+        "body": "Wir bauen die Teile Ihres Playbooks neu, die sich nicht übertragen lassen: ICP und Segmentierung pro Markt, Botschafts- und Beweisarchitektur sowie ein Vertriebsprozess, der den lokalen Kaufphasen folgt."
+      },
+      {
+        "title": "Partner- & Channel-Design",
+        "body": "Wir identifizieren die Partner, die in Ihrer Kategorie tatsächlich Deals prägen, gestalten das kommerzielle Modell und bauen das Enablement, mit dem der Channel liefert — statt nur zu unterschreiben."
+      },
+      {
+        "title": "GTM-Führung auf Zeit",
+        "body": "Ein erfahrener europäischer GTM-Operator, eingebettet in Ihr Team, führt die Expansion — von Profilen für die ersten Einstellungen bis zu Pipeline-Reviews — bis sie auf eigenen Beinen steht."
+      }
+    ]
+  },
+  "cases": {
+    "title": "Referenzen",
+    "lead": "Wie Technologieunternehmen europäische Märkte zum Laufen gebracht haben — anonymisiert, mit den Zahlen, auf die es ankam.",
+    "readMore": "Case lesen",
+    "all": "Alle Referenzen",
+    "back": "Zurück zu den Referenzen",
+    "clientLabel": "Kunde",
+    "sectorLabel": "Branche",
+    "resultsLabel": "Ergebnisse"
+  },
+  "newsletter": {
+    "title": "Newsletter",
+    "name": "The Decision Unit",
+    "lead": "Ein Briefing zu europäischem B2B-Go-to-Market: Buying Center, Beschaffung, Partner und Vertrauen — eine praxisnahe Idee pro Ausgabe, ohne Füllstoff.",
+    "emailPlaceholder": "sie@unternehmen.de",
+    "submit": "Abonnieren",
+    "privacyNote": "Eine E-Mail pro Ausgabe. Jederzeit abbestellbar. Wir geben Ihre Adresse niemals weiter.",
+    "archiveTitle": "Frühere Ausgaben",
+    "readIssue": "Ausgabe lesen",
+    "backToArchive": "Zurück zu allen Ausgaben"
+  },
+  "contact": {
+    "title": "Sprechen Sie mit uns",
+    "lead": "Sagen Sie uns, welche Märkte Sie anvisieren und wo die aktuelle Motion stockt. Innerhalb von zwei Werktagen erhalten Sie eine ehrliche Einschätzung, ob wir helfen können.",
+    "emailLabel": "E-Mail"
+  },
+  "footer": {
+    "note": "Europäische GTM-Strategie für Technologieunternehmen beim Markteintritt in Europa und niederländische Unternehmen auf dem Weg in die Welt.",
+    "rights": "Alle Rechte vorbehalten."
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "titleSuffix": "Bridgehead — European B2B GTM Strategy",
+    "description": "GTM strategy consultancy for technical companies entering Europe and NL-based businesses scaling EU-wide or globally."
+  },
+  "brand": {
+    "name": "Bridgehead",
+    "tagline": "European go-to-market strategy for technical companies"
+  },
+  "nav": {
+    "home": "Home",
+    "cases": "Cases",
+    "newsletter": "Newsletter",
+    "contact": "Contact"
+  },
+  "hero": {
+    "kicker": "B2B GTM strategy consultancy",
+    "title": "Your home-market playbook got you here. Europe plays by different rules.",
+    "lead": "We help technical companies win in European markets — where decision units, procurement norms, partner influence and trust dynamics don't behave the way your home market taught you.",
+    "ctaPrimary": "Book an intro call",
+    "ctaSecondary": "Read our cases"
+  },
+  "audiences": {
+    "title": "Who we work with",
+    "items": [
+      {
+        "title": "Technical companies entering Europe",
+        "body": "Product-led and sales-led scale-ups from the US, Israel, APAC and beyond whose proven GTM motion stalls on first contact with European buying reality: multi-stakeholder decision units, formal procurement, channel gatekeepers and slower trust-building."
+      },
+      {
+        "title": "NL-based businesses going EU-wide or global",
+        "body": "Dutch technology and industrial companies that dominate their home market and now need a deliberate expansion strategy — because what works through your Dutch network does not automatically translate to DACH, France, the Nordics or beyond."
+      }
+    ]
+  },
+  "problem": {
+    "title": "Where home-market playbooks break",
+    "lead": "The product is rarely the problem. The gap is between how you learned to sell and how Europe buys.",
+    "items": [
+      {
+        "title": "Local decision units",
+        "body": "The single-champion motion collapses when six to ten stakeholders — technical, commercial, legal, works council — each hold a veto and expect to be engaged on their own terms."
+      },
+      {
+        "title": "Procurement norms",
+        "body": "Framework agreements, tender rules, data-residency clauses and payment terms differ by country. Treating procurement as a late-stage formality is the most expensive mistake we see."
+      },
+      {
+        "title": "Partner influence",
+        "body": "In many European markets, integrators, resellers and trusted advisors decide which vendors are even considered. If you're not in their ecosystem, you're not in the deal."
+      },
+      {
+        "title": "Trust dynamics",
+        "body": "References, local presence, language and long-term commitment signals outweigh velocity plays. European buyers reward vendors who prove they are here to stay."
+      }
+    ]
+  },
+  "services": {
+    "title": "What we do",
+    "lead": "Focused engagements with a clear deliverable and a transfer of capability to your team — not a slide deck that dies in a drawer.",
+    "items": [
+      {
+        "title": "Market-entry diagnostic",
+        "body": "Four weeks. We map your target markets' decision units, procurement landscape and partner ecosystems against your current motion, and tell you precisely where it will break and what to change."
+      },
+      {
+        "title": "GTM localization sprint",
+        "body": "We rebuild the parts of your playbook that don't transfer: ICP and segmentation per market, message and proof architecture, and a sales process re-sequenced around local buying stages."
+      },
+      {
+        "title": "Partner & channel design",
+        "body": "We identify the partners who actually shape deals in your category, design the commercial model, and build the enablement that makes the channel produce — not just sign."
+      },
+      {
+        "title": "Fractional GTM leadership",
+        "body": "An experienced European GTM operator embedded with your team to run the expansion — from first-hire profiles to pipeline reviews — until it stands on its own."
+      }
+    ]
+  },
+  "cases": {
+    "title": "Cases",
+    "lead": "How technical companies made European markets work — anonymized, with the numbers that mattered.",
+    "readMore": "Read the case",
+    "all": "All cases",
+    "back": "Back to cases",
+    "clientLabel": "Client",
+    "sectorLabel": "Sector",
+    "resultsLabel": "Results"
+  },
+  "newsletter": {
+    "title": "Newsletter",
+    "name": "The Decision Unit",
+    "lead": "A briefing on European B2B go-to-market: decision units, procurement, partners and trust — one practical idea per issue, no fluff.",
+    "emailPlaceholder": "you@company.com",
+    "submit": "Subscribe",
+    "privacyNote": "One email per issue. Unsubscribe any time. We never share your address.",
+    "archiveTitle": "Past issues",
+    "readIssue": "Read issue",
+    "backToArchive": "Back to all issues"
+  },
+  "contact": {
+    "title": "Talk to us",
+    "lead": "Tell us which markets you're targeting and where the current motion is stalling. We'll come back within two working days with an honest read on whether we can help.",
+    "emailLabel": "Email"
+  },
+  "footer": {
+    "note": "European GTM strategy for technical companies entering Europe and Dutch companies going global.",
+    "rights": "All rights reserved."
+  }
+}

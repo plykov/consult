@@ -1,0 +1,110 @@
+{
+  "meta": {
+    "titleSuffix": "Bridgehead — Estrategia GTM B2B europea",
+    "description": "Consultoría de estrategia go-to-market para empresas tecnológicas que entran en Europa y empresas neerlandesas que buscan expandirse por la UE o globalmente."
+  },
+  "brand": {
+    "name": "Bridgehead",
+    "tagline": "Estrategia go-to-market europea para empresas tecnológicas"
+  },
+  "nav": {
+    "home": "Inicio",
+    "cases": "Casos",
+    "newsletter": "Newsletter",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "kicker": "Consultoría de estrategia GTM B2B",
+    "title": "El playbook de su mercado local le trajo hasta aquí. Europa juega con otras reglas.",
+    "lead": "Ayudamos a empresas tecnológicas a ganar en los mercados europeos — donde las unidades de decisión, las normas de compras, la influencia de los partners y las dinámicas de confianza no se comportan como le enseñó su mercado de origen.",
+    "ctaPrimary": "Reservar una llamada",
+    "ctaSecondary": "Leer nuestros casos"
+  },
+  "audiences": {
+    "title": "Con quién trabajamos",
+    "items": [
+      {
+        "title": "Empresas tecnológicas que entran en Europa",
+        "body": "Scale-ups product-led y sales-led de EE. UU., Israel, APAC y más allá, cuya mecánica GTM probada se atasca al primer contacto con la realidad de compra europea: unidades de decisión con múltiples interesados, compras formalizadas, guardianes del canal y una construcción de confianza más lenta."
+      },
+      {
+        "title": "Empresas neerlandesas que van a toda la UE o al mundo",
+        "body": "Empresas tecnológicas e industriales neerlandesas que dominan su mercado local y ahora necesitan una estrategia de expansión deliberada — porque lo que funciona a través de su red neerlandesa no se traslada automáticamente a la región DACH, Francia, los países nórdicos o más allá."
+      }
+    ]
+  },
+  "problem": {
+    "title": "Dónde se rompen los playbooks del mercado local",
+    "lead": "El producto rara vez es el problema. La brecha está entre cómo aprendió a vender y cómo compra Europa.",
+    "items": [
+      {
+        "title": "Unidades de decisión locales",
+        "body": "La mecánica del campeón único se derrumba cuando de seis a diez interesados — técnico, comercial, jurídico, comité de empresa — tienen cada uno derecho de veto y esperan ser involucrados en sus propios términos."
+      },
+      {
+        "title": "Normas de compras",
+        "body": "Acuerdos marco, reglas de licitación, cláusulas de residencia de datos y plazos de pago difieren por país. Tratar el departamento de compras como una formalidad de última fase es el error más caro que vemos."
+      },
+      {
+        "title": "Influencia de los partners",
+        "body": "En muchos mercados europeos, los integradores, distribuidores y asesores de confianza deciden qué proveedores llegan siquiera a considerarse. Si no está en su ecosistema, no está en la operación."
+      },
+      {
+        "title": "Dinámicas de confianza",
+        "body": "Referencias, presencia local, idioma y señales de compromiso a largo plazo pesan más que las jugadas de velocidad. Los compradores europeos premian a los proveedores que demuestran que han venido para quedarse."
+      }
+    ]
+  },
+  "services": {
+    "title": "Qué hacemos",
+    "lead": "Proyectos enfocados con un entregable claro y transferencia de capacidades a su equipo — no una presentación que muere en un cajón.",
+    "items": [
+      {
+        "title": "Diagnóstico de entrada al mercado",
+        "body": "Cuatro semanas. Mapeamos las unidades de decisión, el panorama de compras y los ecosistemas de partners de sus mercados objetivo frente a su mecánica actual — y le decimos con precisión dónde se romperá y qué cambiar."
+      },
+      {
+        "title": "Sprint de localización GTM",
+        "body": "Reconstruimos las partes de su playbook que no se trasladan: ICP y segmentación por mercado, arquitectura de mensajes y pruebas, y un proceso de ventas reordenado según las fases de compra locales."
+      },
+      {
+        "title": "Diseño de partners y canal",
+        "body": "Identificamos los partners que realmente dan forma a las operaciones en su categoría, diseñamos el modelo comercial y construimos el enablement que hace que el canal produzca — no solo que firme."
+      },
+      {
+        "title": "Liderazgo GTM fraccional",
+        "body": "Un operador GTM europeo experimentado, integrado en su equipo, dirige la expansión — desde los perfiles de las primeras contrataciones hasta las revisiones de pipeline — hasta que se sostenga sola."
+      }
+    ]
+  },
+  "cases": {
+    "title": "Casos",
+    "lead": "Cómo empresas tecnológicas hicieron funcionar los mercados europeos — anonimizados, con las cifras que importaban.",
+    "readMore": "Leer el caso",
+    "all": "Todos los casos",
+    "back": "Volver a los casos",
+    "clientLabel": "Cliente",
+    "sectorLabel": "Sector",
+    "resultsLabel": "Resultados"
+  },
+  "newsletter": {
+    "title": "Newsletter",
+    "name": "The Decision Unit",
+    "lead": "Un briefing sobre go-to-market B2B europeo: unidades de decisión, compras, partners y confianza — una idea práctica por número, sin relleno.",
+    "emailPlaceholder": "usted@empresa.es",
+    "submit": "Suscribirse",
+    "privacyNote": "Un correo por número. Cancele cuando quiera. Nunca compartimos su dirección.",
+    "archiveTitle": "Números anteriores",
+    "readIssue": "Leer número",
+    "backToArchive": "Volver a todos los números"
+  },
+  "contact": {
+    "title": "Hable con nosotros",
+    "lead": "Cuéntenos qué mercados tiene en el punto de mira y dónde se atasca su mecánica actual. En dos días laborables le daremos una valoración honesta de si podemos ayudar.",
+    "emailLabel": "Correo"
+  },
+  "footer": {
+    "note": "Estrategia GTM europea para empresas tecnológicas que entran en Europa y empresas neerlandesas que salen al mundo.",
+    "rights": "Todos los derechos reservados."
+  }
+}
