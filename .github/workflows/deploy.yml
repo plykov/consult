@@ -20,6 +20,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # Ensures the Pages site exists with source "GitHub Actions" — without this,
+      # deploy-pages fails while the legacy branch/Jekyll deployment serves the README.
+      - uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
       - uses: actions/setup-node@v4
         with:
           node-version: "20"
